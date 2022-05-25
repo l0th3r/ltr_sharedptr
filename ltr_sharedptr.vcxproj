@@ -142,7 +142,6 @@
     <ClInclude Include="ltr_sharedptr.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ltr_sharedptr.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
